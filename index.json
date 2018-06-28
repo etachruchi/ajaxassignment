@@ -1,0 +1,46 @@
+ [{
+         "firstname": "ruchi",
+         "lastname": "gautam",
+         "email": "ruchi@gmail.com"
+     },
+     {
+         "firstname": "nidhi",
+         "lastname": "sharma",
+         "email": "nidhi@gmail.com"
+     },
+     {
+         "firstname": "shweta",
+         "lastname": "SHARMA",
+         "email": "shweta@gmail.com"
+     },
+     {
+         "firstname": "SHYAM",
+         "lastname": "SHARMA",
+         "email": "shyam@gmail,com"
+     },
+     {
+         "firstname": "abc",
+         "lastname": "def",
+         "email": "abc@gmail.com"
+     },
+     {
+         "firstname": "ram",
+         "lastname": "SHARMA",
+         "email": "ram@gmail.com"
+     },
+     {
+         "firstname": "b",
+         "lastname": "ds",
+         "email": "b@gmail.com"
+     },
+     {
+         "firstname": "jdf",
+         "lastname": "jdf",
+         "email": "jdf@email.com"
+     },
+     {
+         "firstname": "dhsd",
+         "lastname": "SHARMA",
+         "email": "dhsd@gmail.com"
+     }
+ ]
